@@ -64,13 +64,16 @@ export const IEaaSPage: React.FC = () => {
       {/* SECTION 14: EXPERIENCE */}
       <Experience />
 
-      {/* SECTION 15: WHAT WE ARE NOT */}
+      {/* SECTION 15: CONTACT */}
+      <Contact />
+
+      {/* SECTION 16: WHAT WE ARE NOT */}
       <WhatWeAreNot />
 
-      {/* SECTION 16: FAQ */}
+      {/* SECTION 17: FAQ */}
       <FAQ />
 
-      {/* SECTION 17: FINAL CTA */}
+      {/* SECTION 18: FINAL CTA */}
       <FinalCTA />
 
       {/* FOOTER */}
