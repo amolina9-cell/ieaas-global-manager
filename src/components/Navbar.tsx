@@ -28,6 +28,7 @@ export const Navbar: React.FC<NavbarProps> = () => {
     { label: 'Qué obtienes', href: '#que-obtienes' },
     { label: 'Para quién', href: '#para-quien' },
     { label: 'Experiencia', href: '#experiencia' },
+    { label: 'Contáctanos', href: '#contacto' },
   ];
 
   const handleScrollTo = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
