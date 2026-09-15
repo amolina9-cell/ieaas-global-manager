@@ -3,7 +3,7 @@
   "name": "ieaas-global-manager",
   "compatibility_date": "2026-09-12",
   "assets": {
-"directory": "./dist/ieaas",
+    "directory": "./dist",
 "not_found_handling": "single-page-application"
   }
 }
